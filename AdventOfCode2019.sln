@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AdventOfCode2019", "AdventOfCode2019\AdventOfCode2019.fsproj", "{B9739503-B9A4-4A1C-B359-76F2CE6C2993}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E293FA7D-B5C6-4027-9701-515E7FB4B820}"
+	ProjectSection(SolutionItems) = preProject
+		Day1.txt = Day1.txt
+		test12.txt = test12.txt
+		Day2.txt = Day2.txt
+		test211.txt = test211.txt
+		test212.txt = test212.txt
+		test213.txt = test213.txt
+		Day3.txt = Day3.txt
+		test31.txt = test31.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9739503-B9A4-4A1C-B359-76F2CE6C2993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9739503-B9A4-4A1C-B359-76F2CE6C2993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9739503-B9A4-4A1C-B359-76F2CE6C2993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9739503-B9A4-4A1C-B359-76F2CE6C2993}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
